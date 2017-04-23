@@ -2,7 +2,7 @@
 layout: page
 title: Search
 description: "What are you looking for?"
-header-img: "assets/owner/hero/search-bg.jpg"
+header-img: "assets/owner/hero/Search.jpg"
 permalink: /search/
 ---
 
@@ -56,7 +56,7 @@ permalink: /search/
 
 <br>
   <div id="tags">
-  	<h5>tag cloud</h5>
+  	<h3>tag cloud</h3>
    {% assign tags = site.tags | sort %}
 {% for tag in tags %}
  <span class="site-tag">
@@ -78,7 +78,7 @@ permalink: /search/
 
 <br>
   <div id="categories">
-  	<h5>categories</h5>
+  	<h3>categories</h3>
    {% assign categories = site.categories | sort %}
 {% for category in categories %}
  <span class="site-category">
@@ -98,5 +98,3 @@ permalink: /search/
 </style>
 
 <br>
-<h6>Image Source: <a href="https://source.unsplash.com/NuE8Nu3otjo">UNSPLASH</a></h6>
-
