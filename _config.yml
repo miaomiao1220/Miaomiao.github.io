@@ -1,6 +1,6 @@
 # Site settings
-title: "MADness"
-description: A Template for Jekyll
+title: "Miaomiao"
+description: My_love_home
 
 # Files
 baseurl:
@@ -24,19 +24,19 @@ wpm: 200
 
 # Owner/author information
 owner:
-  name:   MADness
+  name:   Miaomiao
   avatar: avatar.jpg
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    MAD for Jekyll
 
 # Social networking links used in footer. Update and remove as you like.
-twitter_username: MAD4Jekyll
-facebook_username: MAD4Jekyll
-github_username: MAD4Jekyll
-deviantart_username: MAD4Jekyll
-500px_username: MAD4Jekyll
-flickr_username: MAD4Jekyll
-instagram_username: MAD4Jekyll
+twitter_username: Miaomiao
+facebook_username: Miaomiao
+github_username: Miaomiao
+deviantart_username: Miaomiao
+500px_username: Miaomiao
+flickr_username: Miaomiao
+instagram_username: Miaomiao
 
  
 # Internal nav
