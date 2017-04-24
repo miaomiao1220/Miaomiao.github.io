@@ -1,9 +1,9 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 3rem;
-  color: #dddddd;
-  background-color: #30292B;
-  background-image: url('/assets/owner/pattern.jpg');
+  color: #000000;
+  background-color: #FFCC99;
+  background-image: url('/assets/owner/pattern.png');
   background-attachment: fixed;
 }
 p {
