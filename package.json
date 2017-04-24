@@ -1,7 +1,7 @@
 {
-  "name": "madness",
+  "name": "Miaomiao",
   "version": "1.0.0",
-  "description": "madforjekyll",
+  "description": "Rainy season, having the hard way with you",
   "main": "Gruntfile.js",
   "dependencies": {
     "magnific-popup": "^1.0.0"
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/sunbliss/sunbliss.github.io.git"
   },
-  "author": "madness",
+  "author": "Miaomiao",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sunbliss/sunbliss.github.io/issues"
