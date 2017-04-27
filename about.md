@@ -12,11 +12,11 @@ God bless us!
 <p>
 
 My codefoces id:
-<a target="miaomiao_yali" href="http://codeforces.com/profile/miaomiao_yali"> TalkingData </a>
+<a target="Other_Links" href="http://codeforces.com/profile/miaomiao_yali"> miaomiao_yali </a>
 <p>
 
 My 
-<a target="old_blog" href="http://blog.csdn.net/miaomiao_ymxl"> voyagelab </a>
+<a target="Other_Links" href="http://blog.csdn.net/miaomiao_ymxl"> OldBlog </a>
 <p>
 
 <h3> About this blog theme </h3>  
