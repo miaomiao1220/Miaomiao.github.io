@@ -1,17 +1,17 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: Miaomiao
+subtitle: Home
+description: Rainy Season, having the hard way with you
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: miaomiao
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: OI/program
 url: "http://baixin.io"
 
 # Comment
 comment:
     # disqus: leopard
-    duoshuo: leopard 
+    duoshuo: miaomiao 
 
 # Social
 social:
@@ -57,9 +57,9 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: Archive, description: archive, url: '/archive'}   
+    - {title: Tags, description: tags, url: '/tags'}      
+    - {title: AboutMe, description: about, url: '/about'}      
     
 
 # Pagination
