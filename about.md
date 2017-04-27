@@ -11,12 +11,12 @@ Love OI, but also love Chinese and History
 God bless us!
 <p>
 
-My codefoces id: miaomiao_yali
-<a target="_blank" href="http://codeforces.com/profile/miaomiao_yali"> TalkingData </a>
+My codefoces id:
+<a target="miaomiao_yali" href="http://codeforces.com/profile/miaomiao_yali"> TalkingData </a>
 <p>
 
-My old blog
-<a target="_blank" href="http://blog.csdn.net/miaomiao_ymxl"> voyagelab </a>
+My 
+<a target="old_blog" href="http://blog.csdn.net/miaomiao_ymxl"> voyagelab </a>
 <p>
 
 <h3> About this blog theme </h3>  
