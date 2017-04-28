@@ -3,7 +3,8 @@ layout: page
 title: About Me 
 ---
 
-I'm Miaomiao<p>
+I'm Miaomiao
+<p>
 Rainy Season, having the hard way with you.
 <p>
 Love OI, but also love Chinese and History
@@ -22,6 +23,6 @@ My
 <h3> About this blog theme </h3>  
 <p>
 Source
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll build personal blog </a>
+<a href="/2016/10/jekyll_tutorials1/"> Jekyll's private blog </a>
 Blog's Source is on <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 
 {% include comments.html %}
