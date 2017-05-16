@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "Luogu_MayR1 D 核心密码B"
 date: 2017-05-12
